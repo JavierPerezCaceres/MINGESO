@@ -1,0 +1,8 @@
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/repositories/StudentRepository.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/BackApplication.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/controllers/StudentController.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/models/Student.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/controllers/CareerController.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/information/CSVReader.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/models/Career.java
+/home/javier/Documents/USACH/1-2020/MINGESO/tmingesoback/src/main/java/cl/tmingeso/back/repositories/CareerRepository.java

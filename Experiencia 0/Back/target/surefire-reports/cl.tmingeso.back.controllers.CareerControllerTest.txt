@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cl.tmingeso.back.controllers.CareerControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.941 s - in cl.tmingeso.back.controllers.CareerControllerTest
